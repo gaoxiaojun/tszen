@@ -1,0 +1,9 @@
+{
+  "name": "tszen",
+  "version": "1.0.0",
+  "description": "Zen of Chan",
+  "main": "index.js",
+  "repository": "http://forex24.today",
+  "author": "Xiaojun Gao",
+  "license": "MIT"
+}
